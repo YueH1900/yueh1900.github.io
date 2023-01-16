@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yueh1900.github.io</id>
+    <title>YueH1900</title>
+    <updated>2023-01-16T15:03:34.073Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yueh1900.github.io"/>
+    <link rel="self" href="https://yueh1900.github.io/atom.xml"/>
+    <subtitle>And if you see, don&apos;t make a sound.</subtitle>
+    <logo>https://yueh1900.github.io/images/avatar.png</logo>
+    <icon>https://yueh1900.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, YueH1900</rights>
+    <entry>
+        <title type="html"><![CDATA[我最中意的雪天]]></title>
+        <id>https://yueh1900.github.io/post/snow/</id>
+        <link href="https://yueh1900.github.io/post/snow/">
+        </link>
+        <updated>2023-01-16T14:57:57.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yueh1900.github.io/post-images/1673881097966.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://yueh1900.github.io/post-images/1673881116102.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://yueh1900.github.io/post-images/1673881121656.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夕阳真好看，再见了夕阳]]></title>
+        <id>https://yueh1900.github.io/post/sunset/</id>
+        <link href="https://yueh1900.github.io/post/sunset/">
+        </link>
+        <updated>2023-01-16T14:44:00.000Z</updated>
+        <content type="html"><![CDATA[<p>温柔闪电陪我入睡。<br>
+<img src="https://yueh1900.github.io/post-images/1673880376826.JPG" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://yueh1900.github.io/post-images/1673880487032.JPG" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
